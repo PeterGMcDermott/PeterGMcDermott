@@ -10,6 +10,7 @@ This is where my experiments live. Most of them started as something I built wit
 - [reddit-ai-monitor](https://github.com/PeterGMcDermott/reddit-ai-monitor): a prototype bot that watches Reddit for posts mentioning a brand and an AI topic.
 - [bonvoy-passport](https://github.com/PeterGMcDermott/bonvoy-passport): a stamp-style tracker for all 40 Marriott Bonvoy brands.
 - [reading-punchcard](https://github.com/PeterGMcDermott/reading-punchcard): a punch card app so my son can track the books he reads toward his next Among Us plushie.
+- [music-theory-synthesizer](https://github.com/PeterGMcDermott/music-theory-synthesizer): a Duolingo-style synth studio for learning music theory and building beats, with MP3 export.
 - [who-farted](https://github.com/PeterGMcDermott/who-farted): a playable prototype of an Among Us-style deduction game.
 
 ## Elsewhere
