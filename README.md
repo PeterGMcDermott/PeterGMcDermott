@@ -12,6 +12,7 @@ This is where my experiments live. Most of them started as something I built wit
 - [reading-punchcard](https://github.com/PeterGMcDermott/reading-punchcard): a punch card app so my son can track the books he reads toward his next Among Us plushie.
 - [music-theory-synthesizer](https://github.com/PeterGMcDermott/music-theory-synthesizer): a Duolingo-style synth studio for learning music theory and building beats, with MP3 export.
 - [chord-progression-explorer](https://github.com/PeterGMcDermott/chord-progression-explorer): an interactive chord progression explorer for learning songwriting, with WAV loop export.
+- [corporate-jargon-trainer](https://github.com/PeterGMcDermott/corporate-jargon-trainer): Duolingo for corporate jargon, a plainspoken leadership masterclass.
 - [who-farted](https://github.com/PeterGMcDermott/who-farted): a playable prototype of an Among Us-style deduction game.
 
 ## Elsewhere
