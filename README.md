@@ -1,6 +1,6 @@
 # Peter McDermott
 
-I lead AI and automation adoption at Marriott. I also write AI Ayo, a weekly newsletter that translates AI news for normal humans, and I host the Going Up podcast.
+I lead AI transformation for U.S. & Canada at Marriott. I also write AI Ayo, a weekly newsletter that translates AI news for normal humans, and I host the Going Up podcast.
 
 This is where my experiments live. Most of them started as something I built with my AI assistant and then kept working on.
 
@@ -15,6 +15,8 @@ This is where my experiments live. Most of them started as something I built wit
 - [corporate-jargon-trainer](https://github.com/PeterGMcDermott/corporate-jargon-trainer): Duolingo for corporate jargon, a plainspoken leadership masterclass.
 - [corporate-ai-digestive-system](https://github.com/PeterGMcDermott/corporate-ai-digestive-system): a satirical decision game about how enterprises digest AI strategy.
 - [who-farted](https://github.com/PeterGMcDermott/who-farted): a playable prototype of an Among Us-style deduction game.
+- [marriott-command-center](https://github.com/PeterGMcDermott/marriott-command-center): an always-on ambient dashboard for a vertically mounted monitor. Marriott stock, headlines, and weekend hotel rates for five cities.
+- [ai-ayo-site](https://github.com/PeterGMcDermott/ai-ayo-site): the landing page for AI Ayo.
 
 ## Elsewhere
 
